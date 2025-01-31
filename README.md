@@ -1,1 +1,2 @@
-# powder
+# Powder
+AI powered projects
